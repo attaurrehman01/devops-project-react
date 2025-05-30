@@ -6,7 +6,7 @@ const Sidebar = () => {
 
   return (
     <aside className="sidebar">
-      <h2>JSON App</h2>
+      <h2>DevOps Class</h2>
       {items.map((item) => (
         <NavLink
           key={item}
